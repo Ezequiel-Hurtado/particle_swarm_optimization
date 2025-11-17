@@ -3,7 +3,7 @@
 This repository implements a customizable Particle Swarm Optimization framework, including update rules, objective functions, penalization methods, and a results notebook with tests and visualizations.
 
 ## 📁 Project Structure
-'''
+```
 ├── Particle_Swarm_Optimzation.pdf # Results made on SAS
 │
 ├── scripts/ 
@@ -17,7 +17,7 @@ This repository implements a customizable Particle Swarm Optimization framework,
 │ └── final_code.sas # Original Submitted Code
 │
 └── README.md # This File
-'''
+```
 
 ## 🚀 Overview
 
