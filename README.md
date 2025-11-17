@@ -3,15 +3,20 @@
 This repository implements a customizable Particle Swarm Optimization framework, including update rules, objective functions, penalization methods, and a results notebook with tests and visualizations.
 
 ## 📁 Project Structure
-.
+
 ├── Particle_Swarm_Optimzation.pdf # Results made on SAS
+│
 ├── scripts/ 
-│ ├── pso.py # PSO Implementationin 2d and more. 
+│ ├── pso.py # PSO Implementation in 2d and more either static or dynamic. 
 │ ├── update.py # Parameters updates functions
 │ ├── functions.py # Objective Functions
-│ ├── penalty.py # Penalization Functions
+│ └─── penalty.py # Penalization Functions
+│
 └── results/
-└── tests.ipynb # Notebook con pruebas, experimentos y visualizaciones
+│ ├── results.ipynb # Tests made on Python
+│ └── final_code.sas # Original Submitted Code
+│
+└── README.md # This File
 
 ## 🚀 Overview
 
