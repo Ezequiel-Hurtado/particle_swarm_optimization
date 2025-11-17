@@ -4,6 +4,8 @@ This repository implements a customizable Particle Swarm Optimization framework,
 
 ## 📁 Project Structure
 ```
+particle_swarm_optimization/
+│
 ├── Particle_Swarm_Optimzation.pdf # Results made on SAS
 │
 ├── scripts/ 
